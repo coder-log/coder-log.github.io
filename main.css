@@ -12,9 +12,22 @@ body{
 
 }
 
-p {
+p{
 
     color: #fff;
     text-align:center;
     font-size:24px
+}
+
+ul {
+    color: #fff;
+}
+
+#social-links{
+    font-size: 3em;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
 }
