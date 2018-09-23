@@ -8,7 +8,7 @@ Follow my journey on <a href="https://dev.to/coderlog">Dev.to</a>
 
 <h3>Phase 1 - Underconstruction (Begun 21-09-2018)</h3>
 <img src="https://github.com/coder-log/coder-log.github.io/blob/master/resources/underconstruction-preview.PNG">
-<p>#1 The user can visit the domain coderlog.io and see an underconstruction page.</p>
+<p>#1 The user can visit the domain 'coderlog.io' and see an underconstruction page.</p>
 <p>#2 The user can see a logo and a underconstruction message.</p>
 <p>#3 The user can follow me on Twitter.</p>
 <p>#4 The user can follow me on Github.</p>
