@@ -1,4 +1,4 @@
-# coder-log.github.io
+<!-- coder-log.github.io -->
 <h1>Coderlog Website</h1>
 <p> A site for a newbie developer with a learning to code journey map, blog , portfolio, about me, contact pages.</p>
 
@@ -20,7 +20,9 @@ Follow my journey on <a href="https://dev.to/coderlog">Dev.to</a>
   <li>Setting up twitter. (Done) </li>
   <li>Setting up Github account. (Done)</li>
   <li>Setting up Dev.to profile. (Done)</li>
+  <li>Setting up Github pages. (Done)</li>
   <li>Making Underconstruction page. (Working)</li>
+  <li>Setting up custom domain <a href="http://coderlog.io">Coderlog.io</a> pointing to Github pages</li>
 </ul>
 
 <h2>Phase #2 - MVP Phase</h2>
