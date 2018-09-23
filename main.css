@@ -1,0 +1,20 @@
+body{
+    background-color:black;
+}
+
+.main{
+    display:flex;
+    height: 720px;
+    width:100%;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column;
+
+}
+
+p {
+
+    color: #fff;
+    text-align:center;
+    font-size:24px
+}
