@@ -22,7 +22,8 @@ Follow my journey on <a href="https://dev.to/coderlog">Dev.to</a>
   <li>Setting up Dev.to profile. (Done)</li>
   <li>Setting up Github pages. (Done)</li>
   <li>Making Underconstruction page. (Working)</li>
-  <li>Setting up custom domain <a href="http://coderlog.io">Coderlog.io</a> pointing to Github pages. (Next)</li>
+  <li>Setting up custom domain <a href="http://coderlog.io">Coderlog.io</a> pointing to Github pages. (Done)</li>
+  <li>Verifiying SSL is working (must wait 24h for the setting up of the certificate) (Next)</li>
 </ul>
 
 <strong>Issues</strong>
