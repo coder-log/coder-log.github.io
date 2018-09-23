@@ -22,7 +22,7 @@ Follow my journey on <a href="https://dev.to/coderlog">Dev.to</a>
   <li>Setting up Dev.to profile. (Done)</li>
   <li>Setting up Github pages. (Done)</li>
   <li>Making Underconstruction page. (Working)</li>
-  <li>Setting up custom domain <a href="http://coderlog.io">Coderlog.io</a> pointing to Github pages</li>
+  <li>Setting up custom domain <a href="http://coderlog.io">Coderlog.io</a> pointing to Github pages. (Next)</li>
 </ul>
 
 <h2>Phase #2 - MVP Phase</h2>
