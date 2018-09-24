@@ -23,13 +23,14 @@ Follow my journey on <a href="https://dev.to/coderlog">Dev.to</a>
   <li>Setting up Github pages. (Done)</li>
   <li>Making Underconstruction page. (Working)</li>
   <li>Setting up custom domain <a href="http://coderlog.io">Coderlog.io</a> pointing to Github pages. (Done)</li>
-  <li>Verifiying SSL is working (must wait 24h for the setting up of the certificate) (Next)</li>
+  <li>Verifiying SSL is working (must wait 24h for the setting up of the certificate) (Done)</li>
 </ul>
 
 <strong>Issues</strong>
 <p>
   Images links not showing with relative path. Why? <br>
   It seems that the complete path must be typed. Tried to copy and paste the complete path and worked.
+  Link provided (badge)by Dev.to not showing good, it is rendering just like a black square.
 </p>
 
 <h2>Phase #2 - MVP Phase</h2>
