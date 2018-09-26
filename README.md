@@ -38,17 +38,22 @@ Follow my journey on <a href="https://dev.to/coderlog">Dev.to</a>
 
 <h3>Phase #2 - MVP Phase</h3>
 
-<p>#1 The user can see a journey timeline with a detail of advance</p>  
+<p>#1 The user can see a journey timeline with a detail of advance in my learning</p>  
 <p>#2 The user can click a Hire Me! button</p>
 <p>#3 The user can follow me on Twitter, Github, Dev.to</p>
 <p>#4 The user can fill a contact form</p>
 <p>#5 The user can visit a 'portfolio' page</p>
 <p>#6 The user can visit an 'about me' page</p>
 <p>#7 The user will have a responsive experience</p>
+<p>#8 The user could read articles about my learning experience, resources, etc.</p>
+<p>#9 The user could see a 'skills' section with lenguages, frameworks, tools, etc. do I know</p>
 
 <strong>Phase #2 Tasks </strong>
 <ul>
-  <li>Make an html5 boilerplate with bootstrap</li>
+  <li>Make an html5 boilerplate with bootstrap, fontawesome or ionicons. </li>
   <li>Design a head with a button</li>
+  <li>Research about how to make a vertical timeline with css / bootstrap</li>
+  <li>Research about modals </li>
+  <li>Research about toggle elements</li>
   <li>(underconstruction)...</li>
 </ul>
