@@ -58,15 +58,13 @@ img {
     vertical-align: bottom;
     height:70px;
     width:70px;
-    
-
 }
 
 
 /* MEDIA QUERY*/
 
   
-  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+  /* If the screen size is 600px wide or less */
   @media screen and (max-width: 600px) {
     p{
         color: #fff;
