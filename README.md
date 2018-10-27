@@ -47,6 +47,7 @@ Follow my journey on <a href="https://dev.to/coderlog">Dev.to</a>
 <p>#7 The user will have a responsive experience</p>
 <p>#8 The user could read articles about my learning experience, resources, etc.</p>
 <p>#9 The user could see a 'skills' section with lenguages, frameworks, tools, etc. do I know</p>
+<p>#10 The user could see a resources page for learning web development, ordered by topics.</p>
 
 <strong>Phase #2 Tasks </strong>
 <ul>
