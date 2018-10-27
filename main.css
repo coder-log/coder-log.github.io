@@ -1,5 +1,11 @@
+/*FONTS
+font-family: 'Inconsolata', monospace;
+font-family: 'Noto Sans', sans-serif;
+*/
+
 body{
     background-color:black;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .main{
@@ -9,12 +15,12 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
 }
 
 h1 {
     color: #fff;
     font-size: 32px;
+    font-family:'Inconsolata', monoespace;
     text-align: center;
 }
 
@@ -41,6 +47,12 @@ fa-github{
     margin:10px;
 }
 
+fa-dev{
+    
+    color: #fff;
+    margin:10px;
+}
+
 a {
     color: #fff;
     text-decoration: none;
@@ -52,14 +64,6 @@ img {
     height: auto;
 }
 
-.img-rounded{
-    border-radius: 50%;
-    border: 2px solid #fff;
-    vertical-align: bottom;
-    height:70px;
-    width:70px;
-}
-
 
 /* MEDIA QUERY*/
 
@@ -69,19 +73,11 @@ img {
     p{
         color: #fff;
         text-align:center;
-        font-size:16px
+        font-size:14px
     }
 
     h1 {
-        font-size: 24px;
-    }
-
-    .img-rounded{
-        border-radius: 50%;
-        border: 2px solid #fff;
-        vertical-align: bottom;
-        height: 47px;
-        width: 47px;
+        font-size: 18px;
     }
 
   }
